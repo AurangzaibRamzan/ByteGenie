@@ -1,0 +1,10 @@
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+requests==2.32.3
+black==24.4.2
+pre-commit==3.7.1
+Flake8==7.0.0
+pydash==5.1.0
+sqlalchemy==2.0.30
+openai==1.35.7
+numpy===2.0.0
